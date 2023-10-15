@@ -81,7 +81,6 @@ This is a Loader for websites.
     opacity: 0;
   }
 }
-
     </style>
   </head>
   <body>
